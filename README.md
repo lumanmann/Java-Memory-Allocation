@@ -1,8 +1,8 @@
 # 變數在記憶體中的配置狀況
 
-本專案共有四個 Java 檔
-IDE: Net Bean
-執行結果：
+- 本專案共有四個 Java 檔
+- IDE: Net Bean
+- 執行結果：
 ![](https://i.imgur.com/raKiUPj.png)
 
 ## REPO中的程式在記憶體中的分配
