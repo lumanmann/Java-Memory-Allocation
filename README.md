@@ -7,7 +7,7 @@
 
 ## REPO中的程式在記憶體中的分配
 一個大概
-![](https://i.imgur.com/32KfRvs.png)
+![](https://i.imgur.com/2Gga4T9.png)
 
 ## Java變數在記憶體中的配置
 變數會佔用記憶體，記憶體分三個部份來存這些變數，分別是global、stack與heap。
