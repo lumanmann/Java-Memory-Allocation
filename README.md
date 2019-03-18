@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/raKiUPj.png)
 
 ## REPO中的程式在記憶體中的分配
-一個大概
+- 一個大概:
 ![](https://i.imgur.com/2Gga4T9.png)
 
 ## Java變數在記憶體中的配置
